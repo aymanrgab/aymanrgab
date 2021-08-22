@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayman Ragab,
 - 👀 I’m interested in Data Science,
 - 🌱 I’m currently learning Data Analysis,
-- 💞️ I’m looking to collaborate on Data Analyst 
+- 💞️ I’m looking to collaborate on Data Analyst,
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/ayman-ragab-742685131)
 
 <!---
