@@ -40,7 +40,7 @@
 
 [![AymanRagab' Activity Graph](https://activity-graph.herokuapp.com/graph?username=aymanrgab&custom_title=Ayman%20Ragab's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/aymanrgab)
 
-<!---
-thespider1/thespider1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## How to reach me
+
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://www.linkedin.com/in/ayman-ragab-742685131/)
+
