@@ -3,9 +3,9 @@
 </h1>
 
 ## Hi there 👋 I'm Ayman
-👀 I’m passionate about Data Science
-🌱 Currently honing my skills in Data Science
-💞️ Looking to collaborate on exciting Data Science projects
+- 👀 I’m passionate about Data Science.
+- 🌱 Currently honing my skills in Data Science.
+- 💞️ Looking to collaborate on exciting Data Science projects
 
 ## What I’ve Learned
 
