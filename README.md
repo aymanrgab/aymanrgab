@@ -36,7 +36,7 @@
 ## How to Reach Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ayman-ragab-742685131/">
+  <a href="https://www.linkedin.com/in/aymanragab">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" alt="LinkedIn">
   </a>
 </div>
